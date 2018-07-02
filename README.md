@@ -1,13 +1,13 @@
 ## 资源
 
-[graphql官方教程](http://graphql.cn/graphql-js/graphql-clients/)
-[graphql js版的使用](https://github.com/graphql/graphql-js)，需要引入GraphQLObjectType这样的函数。The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
-[graphql tools](https://github.com/apollographql/graphql-tools) generate and mock GraphQL.js schemas，更方便，另外附上 [graphql 英文文档](https://www.apollographql.com/docs/graphql-tools/generate-schema.html#makeExecutableSchema)
+* [graphql官方教程](http://graphql.cn/graphql-js/graphql-clients/)
+* [graphql js版的使用](https://github.com/graphql/graphql-js)，需要引入GraphQLObjectType这样的函数。The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
+* [graphql tools](https://github.com/apollographql/graphql-tools) generate and mock GraphQL.js schemas，更方便，另外附上 [graphql 英文文档](https://www.apollographql.com/docs/graphql-tools/generate-schema.html#makeExecutableSchema)
 
 入门资源，逐个往下看：
 
-[graphql-demo](https://github.com/naihe138/GraphQL-demo)，本篇使用的 graphql-js，可以用 graphql-tools 改进写法
-[graphql基础概念整理](https://www.jianshu.com/p/4f9b427f038f)，Field、Argument、Variables、Allases、Fragments、Directives、Mutation、Schemas、标量类型、枚举类型、输入类型
+* [graphql-demo](https://github.com/naihe138/GraphQL-demo)，本篇使用的 graphql-js，可以用 graphql-tools 改进写法
+* [graphql基础概念整理](https://www.jianshu.com/p/4f9b427f038f)，Field、Argument、Variables、Allases、Fragments、Directives、Mutation、Schemas、标量类型、枚举类型、输入类型
 
 ## 使用
 
