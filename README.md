@@ -3,6 +3,7 @@
 * [graphql官方教程](http://graphql.cn/graphql-js/graphql-clients/)
 * [graphql js版的使用](https://github.com/graphql/graphql-js)，需要引入GraphQLObjectType这样的函数。The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
 * [graphql tools](https://github.com/apollographql/graphql-tools) generate and mock GraphQL.js schemas，更方便，另外附上 [graphql 英文文档](https://www.apollographql.com/docs/graphql-tools/generate-schema.html#makeExecutableSchema)
+* [mongoose API](http://mongoosejs.com/docs/api.html)
 
 入门资源，逐个往下看：
 
