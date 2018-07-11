@@ -6,7 +6,8 @@
     "scripts": {
         "build": "babel ./ --ignore node_modules,dist  -d dist --source-maps",
         "start": "babel-node server.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prod": "NODE_ENV=prod pm2 start ./dist/server.js -e err.log -o out.log --node-args='--harmony' --name 'my-graphql-server'"
     },
     "author": "everlose",
     "license": "ISC",
